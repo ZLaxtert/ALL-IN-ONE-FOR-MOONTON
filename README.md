@@ -1,7 +1,7 @@
 # ALL-IN-ONE-FOR-MOONTON
 
 <strong>
-Command :><br>
+Command :<br>
 termux-setup-storage<br>
 pkg install python<br>
 pkg install php<br>
